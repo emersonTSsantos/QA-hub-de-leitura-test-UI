@@ -66,10 +66,12 @@ Verifique com:
 
 - git --version
 
+---
+
 # 🚀 Setup Completo do Ambiente
+
 ## ⚠️ IMPORTANTE: A aplicação precisa estar rodando antes da execução dos testes.
 
----
 
 ## 🔹 1. Clonar o projeto da aplicação (SUT - System Under Test)
 
