@@ -60,9 +60,11 @@ Antes de iniciar, certifique-se de ter instalado:
 
 Verifique com:
 
-node -v
-npm -v
-git --version
+- node -v
+
+- npm -v
+
+- git --version
 
 # 🚀 Setup Completo do Ambiente
 ## ⚠️ IMPORTANTE: A aplicação precisa estar rodando antes da execução dos testes.
